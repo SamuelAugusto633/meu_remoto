@@ -14,3 +14,5 @@ Atualizações feitas no ramo dev1.
 
 dev 2 esteve aqui teste teste teste
 
+
+Alterações simuladas no readme.md.
