@@ -7,3 +7,10 @@ teste
 teste
 
 teste de modificação do repositorio remoto
+
+
+
+Atualizações feitas no ramo dev1.
+
+dev 2 esteve aqui teste teste teste
+
